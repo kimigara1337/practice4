@@ -1,0 +1,122 @@
+[
+  {
+    "Manufacturer": "Acura",
+    "Average_Sales_in_thousands": 19.568052631578947
+  },
+  {
+    "Manufacturer": "Audi",
+    "Average_Sales_in_thousands": 52.00972727272728
+  },
+  {
+    "Manufacturer": "BMW",
+    "Average_Sales_in_thousands": 32.114
+  },
+  {
+    "Manufacturer": "Buick",
+    "Average_Sales_in_thousands": 67.77224000000002
+  },
+  {
+    "Manufacturer": "Cadillac",
+    "Average_Sales_in_thousands": 43.49573913043478
+  },
+  {
+    "Manufacturer": "Chevrolet",
+    "Average_Sales_in_thousands": 44.6340357142857
+  },
+  {
+    "Manufacturer": "Chrysler",
+    "Average_Sales_in_thousands": 24.563266666666667
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Average_Sales_in_thousands": 43.10024137931035
+  },
+  {
+    "Manufacturer": "Ford",
+    "Average_Sales_in_thousands": 85.3061666666667
+  },
+  {
+    "Manufacturer": "Honda",
+    "Average_Sales_in_thousands": 87.66911111111112
+  },
+  {
+    "Manufacturer": "Hyundai",
+    "Average_Sales_in_thousands": 20.959136363636365
+  },
+  {
+    "Manufacturer": "Infiniti",
+    "Average_Sales_in_thousands": 56.37182352941177
+  },
+  {
+    "Manufacturer": "Jaguar",
+    "Average_Sales_in_thousands": 63.853
+  },
+  {
+    "Manufacturer": "Jeep",
+    "Average_Sales_in_thousands": 30.061947368421055
+  },
+  {
+    "Manufacturer": "Lexus",
+    "Average_Sales_in_thousands": 34.27924
+  },
+  {
+    "Manufacturer": "Lincoln",
+    "Average_Sales_in_thousands": 55.54192
+  },
+  {
+    "Manufacturer": "Mercedes-B",
+    "Average_Sales_in_thousands": 66.48891891891891
+  },
+  {
+    "Manufacturer": "Mercury",
+    "Average_Sales_in_thousands": 57.211468749999995
+  },
+  {
+    "Manufacturer": "Mitsubishi",
+    "Average_Sales_in_thousands": 39.330081081081076
+  },
+  {
+    "Manufacturer": "Nissan",
+    "Average_Sales_in_thousands": 33.36415384615384
+  },
+  {
+    "Manufacturer": "Oldsmobile",
+    "Average_Sales_in_thousands": 51.52861111111111
+  },
+  {
+    "Manufacturer": "Plymouth",
+    "Average_Sales_in_thousands": 39.00044444444445
+  },
+  {
+    "Manufacturer": "Pontiac",
+    "Average_Sales_in_thousands": 104.72200000000002
+  },
+  {
+    "Manufacturer": "Porsche",
+    "Average_Sales_in_thousands": 43.10894736842106
+  },
+  {
+    "Manufacturer": "Saab",
+    "Average_Sales_in_thousands": 118.74169230769233
+  },
+  {
+    "Manufacturer": "Saturn",
+    "Average_Sales_in_thousands": 25.55531818181818
+  },
+  {
+    "Manufacturer": "Subaru",
+    "Average_Sales_in_thousands": 31.04933333333333
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Average_Sales_in_thousands": 50.44827272727272
+  },
+  {
+    "Manufacturer": "Volkswagen",
+    "Average_Sales_in_thousands": 35.72327272727273
+  },
+  {
+    "Manufacturer": "Volvo",
+    "Average_Sales_in_thousands": 45.80876666666668
+  }
+]

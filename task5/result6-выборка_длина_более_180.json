@@ -1,0 +1,3817 @@
+[
+  {
+    "Manufacturer_id": 2,
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Manufacturer_id": 3,
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Manufacturer_id": 4,
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Manufacturer_id": 6,
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Manufacturer_id": 7,
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Manufacturer_id": 10,
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Manufacturer_id": 11,
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Manufacturer_id": 12,
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Manufacturer_id": 13,
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Manufacturer_id": 14,
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Manufacturer_id": 15,
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Manufacturer_id": 16,
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Manufacturer_id": 17,
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Manufacturer_id": 18,
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Manufacturer_id": 19,
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Manufacturer_id": 20,
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Manufacturer_id": 21,
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Manufacturer_id": 22,
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Manufacturer_id": 23,
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Manufacturer_id": 24,
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Manufacturer_id": 28,
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Manufacturer_id": 29,
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Manufacturer_id": 30,
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Manufacturer_id": 31,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Manufacturer_id": 32,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Manufacturer_id": 33,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Manufacturer_id": 35,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Manufacturer_id": 37,
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Manufacturer_id": 38,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Manufacturer_id": 39,
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Manufacturer_id": 41,
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Manufacturer_id": 42,
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Manufacturer_id": 43,
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Manufacturer_id": 44,
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Manufacturer_id": 45,
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Manufacturer_id": 46,
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Manufacturer_id": 48,
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Manufacturer_id": 49,
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Manufacturer_id": 50,
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Manufacturer_id": 52,
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Manufacturer_id": 53,
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Manufacturer_id": 54,
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Manufacturer_id": 55,
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Manufacturer_id": 56,
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Manufacturer_id": 57,
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Manufacturer_id": 59,
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Manufacturer_id": 62,
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Manufacturer_id": 65,
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Manufacturer_id": 66,
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Manufacturer_id": 67,
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Manufacturer_id": 70,
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Manufacturer_id": 71,
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Manufacturer_id": 72,
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Manufacturer_id": 73,
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Manufacturer_id": 74,
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Manufacturer_id": 75,
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Manufacturer_id": 76,
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Manufacturer_id": 77,
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Manufacturer_id": 78,
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Manufacturer_id": 79,
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Manufacturer_id": 82,
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Manufacturer_id": 83,
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Manufacturer_id": 84,
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Manufacturer_id": 85,
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Manufacturer_id": 87,
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Manufacturer_id": 88,
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Manufacturer_id": 89,
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Manufacturer_id": 90,
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Manufacturer_id": 91,
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Manufacturer_id": 92,
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Manufacturer_id": 94,
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Manufacturer_id": 95,
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Manufacturer_id": 99,
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Manufacturer_id": 100,
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Manufacturer_id": 101,
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Manufacturer_id": 103,
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Manufacturer_id": 104,
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Manufacturer_id": 105,
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Manufacturer_id": 106,
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Manufacturer_id": 108,
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Manufacturer_id": 109,
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Manufacturer_id": 110,
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Manufacturer_id": 111,
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Manufacturer_id": 112,
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Manufacturer_id": 113,
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Manufacturer_id": 114,
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Manufacturer_id": 116,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Manufacturer_id": 117,
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Manufacturer_id": 119,
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Manufacturer_id": 120,
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Manufacturer_id": 121,
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Manufacturer_id": 122,
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Manufacturer_id": 123,
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Manufacturer_id": 124,
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Manufacturer_id": 128,
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Manufacturer_id": 129,
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Manufacturer_id": 133,
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Manufacturer_id": 134,
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Manufacturer_id": 135,
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Manufacturer_id": 138,
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Manufacturer_id": 139,
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Manufacturer_id": 142,
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Manufacturer_id": 144,
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Manufacturer_id": 145,
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Manufacturer_id": 148,
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Manufacturer_id": 154,
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Manufacturer_id": 155,
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Manufacturer_id": 156,
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Manufacturer_id": 157,
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  },
+  {
+    "Manufacturer_id": 159,
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Manufacturer_id": 160,
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Manufacturer_id": 161,
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Manufacturer_id": 163,
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Manufacturer_id": 164,
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Manufacturer_id": 167,
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Manufacturer_id": 168,
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Manufacturer_id": 169,
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Manufacturer_id": 170,
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Manufacturer_id": 171,
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Manufacturer_id": 172,
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Manufacturer_id": 173,
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Manufacturer_id": 174,
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Manufacturer_id": 175,
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Manufacturer_id": 176,
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Manufacturer_id": 177,
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Manufacturer_id": 178,
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Manufacturer_id": 179,
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Manufacturer_id": 180,
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Manufacturer_id": 181,
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Manufacturer_id": 185,
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Manufacturer_id": 186,
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Manufacturer_id": 187,
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Manufacturer_id": 188,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Manufacturer_id": 189,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Manufacturer_id": 190,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Manufacturer_id": 192,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Manufacturer_id": 194,
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Manufacturer_id": 195,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Manufacturer_id": 196,
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Manufacturer_id": 198,
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Manufacturer_id": 199,
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Manufacturer_id": 200,
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Manufacturer_id": 201,
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Manufacturer_id": 202,
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Manufacturer_id": 203,
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Manufacturer_id": 205,
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Manufacturer_id": 206,
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Manufacturer_id": 207,
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Manufacturer_id": 209,
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Manufacturer_id": 210,
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Manufacturer_id": 211,
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Manufacturer_id": 212,
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Manufacturer_id": 213,
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Manufacturer_id": 214,
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Manufacturer_id": 216,
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Manufacturer_id": 219,
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Manufacturer_id": 222,
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Manufacturer_id": 223,
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Manufacturer_id": 224,
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Manufacturer_id": 227,
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Manufacturer_id": 228,
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Manufacturer_id": 229,
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Manufacturer_id": 230,
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Manufacturer_id": 231,
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Manufacturer_id": 232,
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Manufacturer_id": 233,
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Manufacturer_id": 234,
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Manufacturer_id": 235,
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Manufacturer_id": 236,
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Manufacturer_id": 239,
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Manufacturer_id": 240,
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Manufacturer_id": 241,
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Manufacturer_id": 242,
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Manufacturer_id": 244,
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Manufacturer_id": 245,
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Manufacturer_id": 246,
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Manufacturer_id": 247,
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Manufacturer_id": 248,
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Manufacturer_id": 249,
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Manufacturer_id": 251,
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Manufacturer_id": 252,
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Manufacturer_id": 256,
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Manufacturer_id": 257,
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Manufacturer_id": 258,
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Manufacturer_id": 260,
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Manufacturer_id": 261,
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Manufacturer_id": 262,
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Manufacturer_id": 263,
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Manufacturer_id": 265,
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Manufacturer_id": 266,
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Manufacturer_id": 267,
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Manufacturer_id": 268,
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Manufacturer_id": 269,
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Manufacturer_id": 270,
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Manufacturer_id": 271,
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Manufacturer_id": 273,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Manufacturer_id": 274,
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Manufacturer_id": 276,
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Manufacturer_id": 277,
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Manufacturer_id": 278,
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Manufacturer_id": 279,
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Manufacturer_id": 280,
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Manufacturer_id": 281,
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Manufacturer_id": 285,
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Manufacturer_id": 286,
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Manufacturer_id": 290,
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Manufacturer_id": 291,
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Manufacturer_id": 292,
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Manufacturer_id": 295,
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Manufacturer_id": 296,
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Manufacturer_id": 299,
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Manufacturer_id": 301,
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Manufacturer_id": 302,
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Manufacturer_id": 305,
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Manufacturer_id": 311,
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Manufacturer_id": 312,
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Manufacturer_id": 313,
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Manufacturer_id": 314,
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  },
+  {
+    "Manufacturer_id": 316,
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Manufacturer_id": 317,
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Manufacturer_id": 318,
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Manufacturer_id": 320,
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Manufacturer_id": 321,
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Manufacturer_id": 324,
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Manufacturer_id": 325,
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Manufacturer_id": 326,
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Manufacturer_id": 327,
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Manufacturer_id": 328,
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Manufacturer_id": 329,
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Manufacturer_id": 330,
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Manufacturer_id": 331,
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Manufacturer_id": 332,
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Manufacturer_id": 333,
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Manufacturer_id": 334,
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Manufacturer_id": 335,
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Manufacturer_id": 336,
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Manufacturer_id": 337,
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Manufacturer_id": 338,
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Manufacturer_id": 342,
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Manufacturer_id": 343,
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Manufacturer_id": 344,
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Manufacturer_id": 345,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Manufacturer_id": 346,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Manufacturer_id": 347,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Manufacturer_id": 349,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Manufacturer_id": 351,
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Manufacturer_id": 352,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Manufacturer_id": 353,
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Manufacturer_id": 355,
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Manufacturer_id": 356,
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Manufacturer_id": 357,
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Manufacturer_id": 358,
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Manufacturer_id": 359,
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Manufacturer_id": 360,
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Manufacturer_id": 362,
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Manufacturer_id": 363,
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Manufacturer_id": 364,
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Manufacturer_id": 366,
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Manufacturer_id": 367,
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Manufacturer_id": 368,
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Manufacturer_id": 369,
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Manufacturer_id": 370,
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Manufacturer_id": 371,
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Manufacturer_id": 373,
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Manufacturer_id": 376,
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Manufacturer_id": 379,
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Manufacturer_id": 380,
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Manufacturer_id": 381,
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Manufacturer_id": 384,
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Manufacturer_id": 385,
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Manufacturer_id": 386,
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Manufacturer_id": 387,
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Manufacturer_id": 388,
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Manufacturer_id": 389,
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Manufacturer_id": 390,
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Manufacturer_id": 391,
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Manufacturer_id": 392,
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Manufacturer_id": 393,
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Manufacturer_id": 396,
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Manufacturer_id": 397,
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Manufacturer_id": 398,
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Manufacturer_id": 399,
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Manufacturer_id": 401,
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Manufacturer_id": 402,
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Manufacturer_id": 403,
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Manufacturer_id": 404,
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Manufacturer_id": 405,
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Manufacturer_id": 406,
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Manufacturer_id": 408,
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Manufacturer_id": 409,
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Manufacturer_id": 413,
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Manufacturer_id": 414,
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Manufacturer_id": 415,
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Manufacturer_id": 417,
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Manufacturer_id": 418,
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Manufacturer_id": 419,
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Manufacturer_id": 420,
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Manufacturer_id": 422,
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Manufacturer_id": 423,
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Manufacturer_id": 424,
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Manufacturer_id": 425,
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Manufacturer_id": 426,
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Manufacturer_id": 427,
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Manufacturer_id": 428,
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Manufacturer_id": 430,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Manufacturer_id": 431,
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Manufacturer_id": 433,
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Manufacturer_id": 434,
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Manufacturer_id": 435,
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Manufacturer_id": 436,
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Manufacturer_id": 437,
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Manufacturer_id": 438,
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Manufacturer_id": 442,
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Manufacturer_id": 443,
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Manufacturer_id": 447,
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Manufacturer_id": 448,
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Manufacturer_id": 449,
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Manufacturer_id": 452,
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Manufacturer_id": 453,
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Manufacturer_id": 456,
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Manufacturer_id": 458,
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Manufacturer_id": 459,
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Manufacturer_id": 462,
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Manufacturer_id": 468,
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Manufacturer_id": 469,
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Manufacturer_id": 470,
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Manufacturer_id": 471,
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  },
+  {
+    "Manufacturer_id": 473,
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Manufacturer_id": 474,
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Manufacturer_id": 475,
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Manufacturer_id": 477,
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Manufacturer_id": 478,
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Manufacturer_id": 481,
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Manufacturer_id": 482,
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Manufacturer_id": 483,
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Manufacturer_id": 484,
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Manufacturer_id": 485,
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Manufacturer_id": 486,
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Manufacturer_id": 487,
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Manufacturer_id": 488,
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Manufacturer_id": 489,
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Manufacturer_id": 490,
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Manufacturer_id": 491,
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Manufacturer_id": 492,
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Manufacturer_id": 493,
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Manufacturer_id": 494,
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Manufacturer_id": 495,
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Manufacturer_id": 499,
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Manufacturer_id": 500,
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Manufacturer_id": 501,
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Manufacturer_id": 502,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Manufacturer_id": 503,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Manufacturer_id": 504,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Manufacturer_id": 506,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Manufacturer_id": 508,
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Manufacturer_id": 509,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Manufacturer_id": 510,
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Manufacturer_id": 512,
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Manufacturer_id": 513,
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Manufacturer_id": 514,
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Manufacturer_id": 515,
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Manufacturer_id": 516,
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Manufacturer_id": 517,
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Manufacturer_id": 519,
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Manufacturer_id": 520,
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Manufacturer_id": 521,
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Manufacturer_id": 523,
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Manufacturer_id": 524,
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Manufacturer_id": 525,
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Manufacturer_id": 526,
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Manufacturer_id": 527,
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Manufacturer_id": 528,
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Manufacturer_id": 530,
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Manufacturer_id": 533,
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Manufacturer_id": 536,
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Manufacturer_id": 537,
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Manufacturer_id": 538,
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Manufacturer_id": 541,
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Manufacturer_id": 542,
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Manufacturer_id": 543,
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Manufacturer_id": 544,
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Manufacturer_id": 545,
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Manufacturer_id": 546,
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Manufacturer_id": 547,
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Manufacturer_id": 548,
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Manufacturer_id": 549,
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Manufacturer_id": 550,
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Manufacturer_id": 553,
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Manufacturer_id": 554,
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Manufacturer_id": 555,
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Manufacturer_id": 556,
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Manufacturer_id": 558,
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Manufacturer_id": 559,
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Manufacturer_id": 560,
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Manufacturer_id": 561,
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Manufacturer_id": 562,
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Manufacturer_id": 563,
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Manufacturer_id": 565,
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Manufacturer_id": 566,
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Manufacturer_id": 570,
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Manufacturer_id": 571,
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Manufacturer_id": 572,
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Manufacturer_id": 574,
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Manufacturer_id": 575,
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Manufacturer_id": 576,
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Manufacturer_id": 577,
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Manufacturer_id": 579,
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Manufacturer_id": 580,
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Manufacturer_id": 581,
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Manufacturer_id": 582,
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Manufacturer_id": 583,
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Manufacturer_id": 584,
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Manufacturer_id": 585,
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Manufacturer_id": 587,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Manufacturer_id": 588,
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Manufacturer_id": 590,
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Manufacturer_id": 591,
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Manufacturer_id": 592,
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Manufacturer_id": 593,
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Manufacturer_id": 594,
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Manufacturer_id": 595,
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Manufacturer_id": 599,
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Manufacturer_id": 600,
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Manufacturer_id": 604,
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Manufacturer_id": 605,
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Manufacturer_id": 606,
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Manufacturer_id": 609,
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Manufacturer_id": 610,
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Manufacturer_id": 613,
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Manufacturer_id": 615,
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Manufacturer_id": 616,
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Manufacturer_id": 619,
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Manufacturer_id": 625,
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Manufacturer_id": 626,
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Manufacturer_id": 627,
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Manufacturer_id": 628,
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  },
+  {
+    "Manufacturer_id": 630,
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Manufacturer_id": 631,
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Manufacturer_id": 632,
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Manufacturer_id": 634,
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Manufacturer_id": 635,
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Manufacturer_id": 638,
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Manufacturer_id": 639,
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Manufacturer_id": 640,
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Manufacturer_id": 641,
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Manufacturer_id": 642,
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Manufacturer_id": 643,
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Manufacturer_id": 644,
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Manufacturer_id": 645,
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Manufacturer_id": 646,
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Manufacturer_id": 647,
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Manufacturer_id": 648,
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Manufacturer_id": 649,
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Manufacturer_id": 650,
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Manufacturer_id": 651,
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Manufacturer_id": 652,
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Manufacturer_id": 656,
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Manufacturer_id": 657,
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Manufacturer_id": 658,
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Manufacturer_id": 659,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Manufacturer_id": 660,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Manufacturer_id": 661,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Manufacturer_id": 663,
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Manufacturer_id": 665,
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Manufacturer_id": 666,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Manufacturer_id": 667,
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Manufacturer_id": 669,
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Manufacturer_id": 670,
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Manufacturer_id": 671,
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Manufacturer_id": 672,
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Manufacturer_id": 673,
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Manufacturer_id": 674,
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Manufacturer_id": 676,
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Manufacturer_id": 677,
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Manufacturer_id": 678,
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Manufacturer_id": 680,
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Manufacturer_id": 681,
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Manufacturer_id": 682,
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Manufacturer_id": 683,
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Manufacturer_id": 684,
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Manufacturer_id": 685,
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Manufacturer_id": 687,
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Manufacturer_id": 690,
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Manufacturer_id": 693,
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Manufacturer_id": 694,
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Manufacturer_id": 695,
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Manufacturer_id": 698,
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Manufacturer_id": 699,
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Manufacturer_id": 700,
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Manufacturer_id": 701,
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Manufacturer_id": 702,
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Manufacturer_id": 703,
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Manufacturer_id": 704,
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Manufacturer_id": 705,
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Manufacturer_id": 706,
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Manufacturer_id": 707,
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Manufacturer_id": 710,
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Manufacturer_id": 711,
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Manufacturer_id": 712,
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Manufacturer_id": 713,
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Manufacturer_id": 715,
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Manufacturer_id": 716,
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Manufacturer_id": 717,
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Manufacturer_id": 718,
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Manufacturer_id": 719,
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Manufacturer_id": 720,
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Manufacturer_id": 722,
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Manufacturer_id": 723,
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Manufacturer_id": 727,
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Manufacturer_id": 728,
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Manufacturer_id": 729,
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Manufacturer_id": 731,
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Manufacturer_id": 732,
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Manufacturer_id": 733,
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Manufacturer_id": 734,
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Manufacturer_id": 736,
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Manufacturer_id": 737,
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Manufacturer_id": 738,
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Manufacturer_id": 739,
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Manufacturer_id": 740,
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Manufacturer_id": 741,
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Manufacturer_id": 742,
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Manufacturer_id": 744,
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Manufacturer_id": 745,
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Manufacturer_id": 747,
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Manufacturer_id": 748,
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Manufacturer_id": 749,
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Manufacturer_id": 750,
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Manufacturer_id": 751,
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Manufacturer_id": 752,
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Manufacturer_id": 756,
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Manufacturer_id": 757,
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Manufacturer_id": 761,
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Manufacturer_id": 762,
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Manufacturer_id": 763,
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Manufacturer_id": 766,
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Manufacturer_id": 767,
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Manufacturer_id": 770,
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Manufacturer_id": 772,
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Manufacturer_id": 773,
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Manufacturer_id": 776,
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Manufacturer_id": 782,
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Manufacturer_id": 783,
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Manufacturer_id": 784,
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Manufacturer_id": 785,
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  }
+]

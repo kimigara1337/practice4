@@ -1,0 +1,194 @@
+[
+    {
+        "category": "Dance/Electronic",
+        "frequency": 92
+    },
+    {
+        "category": "Folk/Acoustic, rock",
+        "frequency": 4
+    },
+    {
+        "category": "R&B",
+        "frequency": 20
+    },
+    {
+        "category": "World/Traditional, hip hop",
+        "frequency": 8
+    },
+    {
+        "category": "World/Traditional, pop",
+        "frequency": 4
+    },
+    {
+        "category": "World/Traditional, pop, Folk/Acoustic",
+        "frequency": 4
+    },
+    {
+        "category": "World/Traditional, rock, pop",
+        "frequency": 4
+    },
+    {
+        "category": "country",
+        "frequency": 16
+    },
+    {
+        "category": "country, latin",
+        "frequency": 4
+    },
+    {
+        "category": "easy listening",
+        "frequency": 4
+    },
+    {
+        "category": "hip hop",
+        "frequency": 248
+    },
+    {
+        "category": "hip hop, Dance/Electronic",
+        "frequency": 24
+    },
+    {
+        "category": "hip hop, R&B",
+        "frequency": 4
+    },
+    {
+        "category": "hip hop, latin, Dance/Electronic",
+        "frequency": 4
+    },
+    {
+        "category": "hip hop, pop",
+        "frequency": 620
+    },
+    {
+        "category": "hip hop, pop, Dance/Electronic",
+        "frequency": 148
+    },
+    {
+        "category": "hip hop, pop, R&B",
+        "frequency": 528
+    },
+    {
+        "category": "hip hop, pop, R&B, Dance/Electronic",
+        "frequency": 8
+    },
+    {
+        "category": "hip hop, pop, R&B, latin",
+        "frequency": 8
+    },
+    {
+        "category": "hip hop, pop, country",
+        "frequency": 4
+    },
+    {
+        "category": "hip hop, pop, latin",
+        "frequency": 32
+    },
+    {
+        "category": "hip hop, pop, rock",
+        "frequency": 24
+    },
+    {
+        "category": "hip hop, rock, pop",
+        "frequency": 4
+    },
+    {
+        "category": "latin",
+        "frequency": 36
+    },
+    {
+        "category": "metal",
+        "frequency": 24
+    },
+    {
+        "category": "pop",
+        "frequency": 896
+    },
+    {
+        "category": "pop, Dance/Electronic",
+        "frequency": 464
+    },
+    {
+        "category": "pop, Folk/Acoustic",
+        "frequency": 24
+    },
+    {
+        "category": "pop, R&B",
+        "frequency": 400
+    },
+    {
+        "category": "pop, R&B, Dance/Electronic",
+        "frequency": 4
+    },
+    {
+        "category": "pop, R&B, easy listening",
+        "frequency": 4
+    },
+    {
+        "category": "pop, country",
+        "frequency": 8
+    },
+    {
+        "category": "pop, easy listening, jazz",
+        "frequency": 4
+    },
+    {
+        "category": "pop, latin",
+        "frequency": 68
+    },
+    {
+        "category": "pop, rock",
+        "frequency": 40
+    },
+    {
+        "category": "pop, rock, Dance/Electronic",
+        "frequency": 8
+    },
+    {
+        "category": "pop, rock, Folk/Acoustic",
+        "frequency": 4
+    },
+    {
+        "category": "pop, rock, metal",
+        "frequency": 36
+    },
+    {
+        "category": "rock",
+        "frequency": 160
+    },
+    {
+        "category": "rock, Folk/Acoustic, pop",
+        "frequency": 4
+    },
+    {
+        "category": "rock, blues",
+        "frequency": 8
+    },
+    {
+        "category": "rock, blues, latin",
+        "frequency": 4
+    },
+    {
+        "category": "rock, easy listening",
+        "frequency": 4
+    },
+    {
+        "category": "rock, metal",
+        "frequency": 92
+    },
+    {
+        "category": "rock, pop",
+        "frequency": 96
+    },
+    {
+        "category": "rock, pop, Dance/Electronic",
+        "frequency": 16
+    },
+    {
+        "category": "rock, pop, metal",
+        "frequency": 16
+    },
+    {
+        "category": "set()",
+        "frequency": 32
+    }
+]

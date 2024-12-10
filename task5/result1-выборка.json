@@ -1,0 +1,212 @@
+[
+  {
+    "Manufacturer_id": 26,
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer_id": 25,
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer_id": 25,
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer_id": 25,
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer_id": 25,
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer_id": 2,
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer_id": 29,
+    "Model": "Camry",
+    "Sales_in_thousands": 247.994,
+    "__year_resale_value": 13.245
+  },
+  {
+    "Manufacturer_id": 5,
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer_id": 24,
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer_id": 24,
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer_id": 24,
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer_id": 24,
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer_id": 28,
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer_id": 10,
+    "Model": "Camry",
+    "Sales_in_thousands": 247.994,
+    "__year_resale_value": 13.245
+  },
+  {
+    "Manufacturer_id": 12,
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer_id": 2,
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer_id": 2,
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer_id": 2,
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer_id": 2,
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer_id": 23,
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer_id": 16,
+    "Model": "Camry",
+    "Sales_in_thousands": 247.994,
+    "__year_resale_value": 13.245
+  },
+  {
+    "Manufacturer_id": 16,
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer_id": 5,
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer_id": 5,
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer_id": 5,
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer_id": 5,
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer_id": 9,
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer_id": 15,
+    "Model": "Camry",
+    "Sales_in_thousands": 247.994,
+    "__year_resale_value": 13.245
+  },
+  {
+    "Manufacturer_id": 5,
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer_id": 9,
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer_id": 9,
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer_id": 9,
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer_id": 9,
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer_id": 22,
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer_id": 3,
+    "Model": "Camry",
+    "Sales_in_thousands": 247.994,
+    "__year_resale_value": 13.245
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Manufacturer_id": 38,
+    "Vehicle_type": "Passenger",
+    "Price_in_thousands": 69.725,
+    "Engine_size": 8.0,
+    "Horsepower": 450.0
+  },
+  {
+    "Manufacturer_id": 193,
+    "Vehicle_type": "Passenger",
+    "Price_in_thousands": 69.725,
+    "Engine_size": 8.0,
+    "Horsepower": 450.0
+  },
+  {
+    "Manufacturer_id": 348,
+    "Vehicle_type": "Passenger",
+    "Price_in_thousands": 69.725,
+    "Engine_size": 8.0,
+    "Horsepower": 450.0
+  },
+  {
+    "Manufacturer_id": 503,
+    "Vehicle_type": "Passenger",
+    "Price_in_thousands": 69.725,
+    "Engine_size": 8.0,
+    "Horsepower": 450.0
+  },
+  {
+    "Manufacturer_id": 658,
+    "Vehicle_type": "Passenger",
+    "Price_in_thousands": 69.725,
+    "Engine_size": 8.0,
+    "Horsepower": 450.0
+  }
+]
